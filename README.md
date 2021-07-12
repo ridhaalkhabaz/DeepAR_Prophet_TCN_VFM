@@ -30,4 +30,3 @@ We used Temporal Convolutional Networks (TCN), Prophet algorithm from Facebook a
 
 ## Results
 * TCN and LSTM are very capable to predict flowrates. 
-* methods using lstm's are able to distinguish cars and taxis with approximately 61% accuracy.
