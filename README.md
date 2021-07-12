@@ -25,8 +25,8 @@ We used Temporal Convolutional Networks (TCN), Prophet algorithm from Facebook a
 	* ML: 
 		* Prophet_VFM.ipynb: Here, we apply prophet for the the original data set.
 		* STANDARD_TCN_VFM.ipynb: Here, we apply TCN for the the original data set.
-		* LSTM_VFM: Here, we apply LSTM for the the original data set.
+		* DEEPAR_VFM.ipynb: Here, we apply DEEPAR for the the original data set.
 
 
 ## Results
-* TCN and LSTM are very capable to predict flowrates. 
+* TCN and DEEPAR are very capable to predict flowrates. 
