@@ -1,7 +1,7 @@
 # VFM_ML
 
 ## Contributors
-* Ridha Alkhabaz (ridhama2@illinois.edu/ridha.alkhabaz@gmail.com)
+* Ridha Alkhabaz (ridhama2@illinois.edu/ ridha.alkhabaz@gmail.com)
 * Weichang Li (Weichang.Li@aramcoamericas.com)
 * Tao Lin (tao.lin@aramcoamericas.com)
 
